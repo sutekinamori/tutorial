@@ -1,2 +1,2 @@
-console.log('BBB');
+console.log('A');
 console.log('feature-A　ブランチで追加');
